@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Japanese Alphabet Learning Program
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: This program will quiz you on the Japanese alphabet. You can either learn it in order or practice it at random. There are different alphabets so you can choose one, then another, then another and so forth.
+
+VERSION or DATE: 1.0
+
+HOW TO START THIS PROJECT: Download BlueJ or any coding platform that runs Java, Copy and paste the main code into that project, then run the program. 
+
+AUTHORS: Zain Magdon-Ismail
+
+USER INSTRUCTIONS: Each question you will type your answer and hit enter when you're done.
